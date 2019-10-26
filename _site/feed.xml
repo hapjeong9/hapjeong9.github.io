@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-26T23:41:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agile Saturday</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Sat9</name></author><entry><title type="html">Agile Saturday, 토요모임 2.0 Blog를 시작합니다</title><link href="http://localhost:4000/blog/welcome-to-sat9-blog/" rel="alternate" type="text/html" title="Agile Saturday, 토요모임 2.0 Blog를 시작합니다" /><published>2019-10-26T00:00:00+09:00</published><updated>2019-10-26T00:00:00+09:00</updated><id>http://localhost:4000/blog/welcome-to-sat9-blog</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-sat9-blog/">&lt;p&gt;Agile Saturday, 토요모임 2.0 Blog를 시작합니다&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-26T23:45:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agile Saturday</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Sat9</name></author><entry><title type="html">Agile Saturday, 토요모임 2.0 Blog를 시작합니다</title><link href="http://localhost:4000/blog/welcome-to-sat9-blog/" rel="alternate" type="text/html" title="Agile Saturday, 토요모임 2.0 Blog를 시작합니다" /><published>2019-10-26T00:00:00+09:00</published><updated>2019-10-26T00:00:00+09:00</updated><id>http://localhost:4000/blog/welcome-to-sat9-blog</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-sat9-blog/">&lt;p&gt;Agile Saturday, 토요모임 2.0 Blog를 시작합니다&lt;/p&gt;
 
 &lt;h2 id=&quot;소개&quot;&gt;소개&lt;/h2&gt;
 
-&lt;p&gt;2016년 1월 9일부터 함께 공부하는 Agile Saturday 모임의 git repository입니다.&lt;/p&gt;
+&lt;p&gt;2016년 1월 9일부터 함께 공부하는 Agile Saturday 모임의 blog입니다.
+함께 공부하며 만든 결과물을 블로그로 릴리즈합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;멤버&quot;&gt;멤버&lt;/h2&gt;
 
+&lt;p&gt;모임의 멤버와 간단한 소개, 관심사들의 링크입니다.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;이상폴&lt;/li&gt;
-  &lt;li&gt;합정동&lt;/li&gt;
-  &lt;li&gt;조엘&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hapjeong9/saturday9/wiki/%EC%9D%B4%EC%83%81%ED%8F%B4&quot;&gt;이상폴&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hapjeong9/saturday9/wiki/%ED%95%A9%EC%A0%95%EB%8F%99&quot;&gt;합정동&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hapjeong9/saturday9/wiki/%EC%A1%B0%EC%97%98&quot;&gt;조엘&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;n0&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Sat9</name></author><category term="sat9" /><category term="update" /><summary type="html">Agile Saturday, 토요모임 2.0 Blog를 시작합니다</summary></entry></feed>
