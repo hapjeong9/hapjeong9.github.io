@@ -17,9 +17,7 @@ title: "Agile Saturday"
 subtitle: "토요모임 version 2.0"
 email: hapjeong9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Agile을 공부하면서 만든 그룹입니다. 개인의 변화와 발전, 학습을 학습하며 서로 돕습니다.
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
