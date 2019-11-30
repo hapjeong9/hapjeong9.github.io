@@ -1,0 +1,11 @@
+hapjeong9:
+  name        : "합정동"
+  bio         : "10년 넘은 애자일 초보"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hapjeong9@gmail.com"
+    - label: "facebook"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.facebook.com/hapjeong9"
