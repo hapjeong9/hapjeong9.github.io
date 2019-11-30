@@ -118,3 +118,8 @@ analytics:
   google:
     tracking_id: "UA-153627107-1"
     anonymize_ip: false # default
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "sat9"
